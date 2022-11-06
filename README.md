@@ -1,1 +1,1 @@
-# bankistDOM
+# bankist
